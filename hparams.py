@@ -1,4 +1,4 @@
-from deepvoice3_pytorch.tfcompat.hparam import HParams
+from deepvoice3_pytorch.tf.contrib.hparam import HParams
 
 # NOTE: If you want full control for model architecture. please take a look
 # at the code and change whatever you want. Some hyper parameters are hardcoded.
